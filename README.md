@@ -3,6 +3,8 @@ John Conway's Game of Life - Provide a Life Pattern and see how Changes Occur
 
     This Game is an amazing simulation of the actual life regardless of external interference.
     
+    For reference view - https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+    
  Tools Used :
  
     IDE      : CodeBlocks
