@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1623820746 source:c:\users\admin\desktop\vishal\c & c++\projects\conway's game of life\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"template.h"
+
+1623820859 c:\users\admin\desktop\vishal\c & c++\projects\conway's game of life\template.h
+
